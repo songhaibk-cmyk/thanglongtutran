@@ -1,0 +1,6 @@
+{
+  "name": "Dấu ấn Thăng Long – Văn học trên bản đồ",
+  "description": "Khám phá văn hóa, lịch sử và kho tàng văn học gắn liền với Thăng Long Tứ Trấn của Hà Nội ngàn năm văn hiến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
